@@ -1,10 +1,10 @@
 # MemeShare-App
 
-![alt text]()
+![alt text](https://github.com/priyansh-design/MemeShare-App/blob/main/pics/meme.jfif)
 
 ### This app basically gives you random memes from reddit,it also have a sharing feature by which you can share the particular meme.
 
 
 #### To run this App install the **Volley** Library and **Glide** Library into the gradle of the app
 
-### The get the api for this click [here](https://meme-api.herokuapp.com/gimme)
+### The get the api for this click [here](https://meme-api.herokuapp.com/gimme")
